@@ -1,0 +1,9 @@
+{
+    "credentials": {
+        "smtp_ip": "greipfrutas.serveriai.lt",
+        "smtp_port": 465,
+        "mail": "ataskaita@herba.lt",
+        "password": "atsdaghh123456"
+    }
+}
+  
