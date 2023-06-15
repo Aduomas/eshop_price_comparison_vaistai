@@ -34,7 +34,7 @@ class Mailer:
         msg = MIMEMultipart()
         msg["From"] = self.mail
 
-        sent_to = ["adomasval04@gmail.com", "martynas@herba.lt", "nerijus@herba.lt"]
+        sent_to = ["adomasval04@gmail.com", "nerijus@herba.lt"]
         msg[
             "Subject"
         ] = f"Herba Humana savaitinė eshop kainų palyginimo ataskaita {datetime.now().strftime('%Y-%m')}"
